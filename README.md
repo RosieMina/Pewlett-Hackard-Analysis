@@ -39,4 +39,8 @@ In order for the company to know what position will most likely need to be fille
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-- Absolutely not, with only a little over 1,500 pontential mentors available and over 72,000 employees that will be coming in, they will need to rethink their proccess. I think they shouldnt only look at the mentors but also at what position the mentor works in. In addition to that newer employees may also be great mentors and would add to the potential mentor count. If we add maybe 10 years to the eligibility. 
+- Absolutely not, with only a little over 1,500 pontential mentors available and over 72,000 employees that will be coming in, they will need to rethink their proccess. I think they shouldnt only look at the mentors but also at what position the mentor works in. In addition to that newer employees may also be great mentors and would add to the potential mentor count. If we add maybe 5 years to the eligibility there will be more than enough mentors. Below i will show what that would look like. With having more mentors available then needed will allow for those who don't want to be a mentor and those who don't have the people skills to be mentors. 
+
+![new_mentor_table](./Resources/new_mentor.png)
+
+![new_mentor_count](./Resources/new_mentor_count.png)
